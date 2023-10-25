@@ -1,0 +1,3 @@
+interface Logistics {
+    Transport createTransport();
+}
